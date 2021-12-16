@@ -21,9 +21,8 @@ JS 📍 HTML 📍 CSS 📍 java 📍c++
 
 ---
 
-![Profile views](https://gpvc.arturio.dev/Abin-T-Sunil)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abin-T-Sunil)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abin-T-Sunil&show_icons=true)  
 
-  
+ ![Profile views](https://gpvc.arturio.dev/Abin-T-Sunil) 
